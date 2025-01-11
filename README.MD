@@ -1,7 +1,8 @@
 # GenericRepositoryApp 
 Une application démontrant l'utilisation d'interfaces génériques pour une gestion flexible et sécurisée des données.
-
 ---
+<img src="src/captures/CP1.PNG">
+<img src="src/captures/CP2.PNG">
 
 ## 🚀 Fonctionnalités
 - Gestion de données via des interfaces génériques.
